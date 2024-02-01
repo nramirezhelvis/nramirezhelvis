@@ -15,8 +15,9 @@ ___
 ### Acerca de mí 👋
 
 **GatomontesRoseIII**
-is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+Un programador
+Hablo español
+Me encanta la programación en general
 - 🔭 
 - 🌱 Mente abierta con ganas de aprender ...
 - 👯 Me gusta la creatividad, soy imaginativo ...
