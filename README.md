@@ -35,8 +35,6 @@ Me encanta la programación en general
         title="Angular" alt="Angular" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
         title="JAVA" alt="JAVA" width="40" height="40">&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-        title="JS" alt="JS" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"
         title="SPRING" alt="SPRING" width="40" height="40">&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
