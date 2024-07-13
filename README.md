@@ -6,8 +6,6 @@
     </h3>
 </div>
 <div id="badges" align="center">
-    <a href="http://twitch.com" target="_blank"></a>
-    <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge" alt="Twitch Badge">
 </div>
 
 ___
